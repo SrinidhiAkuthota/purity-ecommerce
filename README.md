@@ -79,6 +79,3 @@ On first launch, the app creates and seeds `purity.db` with sample products. Del
 
 The checkout page is a portfolio demonstration only. Payment method selection is simulated; no money is charged. To accept real payments, integrate a payment provider such as Razorpay using its official server-side checkout flow. Never store raw card details in this application.
 
-## Upstream attribution
-
-Customized from **MNML** by **KanikaTomar18**: https://github.com/KanikaTomar18/MNML
